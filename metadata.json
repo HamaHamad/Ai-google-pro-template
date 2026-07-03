@@ -1,0 +1,6 @@
+{
+  "name": "SaaS App Boilerplate",
+  "description": "A comprehensive Next.js SaaS application boilerplate structure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
