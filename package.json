@@ -4,11 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite --port=3000 --host=0.0.0.0",
-    "build": "vite build",
-    "preview": "vite preview",
-    "clean": "rm -rf dist server.js",
-    "lint": "tsc --noEmit"
+    "dev": "cd my-saas-app && npm run dev",
+    "build": "cd my-saas-app && npm run build",
+    "start": "cd my-saas-app && npm run start",
+    "lint": "cd my-saas-app && npm run lint"
   },
   "dependencies": {
     "@google/genai": "^2.4.0",
